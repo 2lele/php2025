@@ -6,7 +6,7 @@
     <title>Nome e idade através do GET</title>
 </head>
 <body>
-    <h2> Altere a aplicação do exercício 1, para que o nome e a idade possam ser informados através de dados de um formulário html: </h2>
+    <h2> EX 2; Altere a aplicação do exercício 1, para que o nome e a idade possam ser informados através de dados de um formulário html: </h2>
 
     <form action="get.php" method="get">
         Nome: <input type="text" name="nome" required>

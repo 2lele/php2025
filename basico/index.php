@@ -32,8 +32,17 @@
     <a href="parimpar.php" target="_blank"> Verificar Par ou Ímpar</a>
     </li>
 
+     <li>
+    <a href="parimpar2.php" target="_blank"> Verificar Par ou Ímpar, com função</a>
+    </li>
+
     <li>
     <a href="tabuada.php" target="_blank"> Tabuada </a>
+    </li>
+
+    
+    <li>
+    <a href="tabuada2.php" target="_blank"> Tabuada 2 de um Número até outro. Usando função </a>
     </li>
 
     <li>
@@ -44,7 +53,7 @@
     <a href="idade.php" target="_blank"> Idade PHP </a>
     </li>
 
-    </ul>
+
 
 
      <?php 

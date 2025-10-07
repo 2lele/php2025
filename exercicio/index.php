@@ -7,7 +7,7 @@
 </head>
 <body>
     
-    <h1> Exercícios 1 PHP </h1>
+    <h1> Exercícios 1 PHP - 02/09 </h1>
     <br>
 
     <ul> 
@@ -24,16 +24,22 @@
     <a href="idade.php" target="_blank"> Exercício 3; </a>
     </li>
 
+    <li>
+    <a href="dado.php"target="_blank"> Desafio: Jogar Dado </a>
+    </li>
 
+    <li>
+    <a href="imc.php"target="_blank"> Atividade 16/09: Calcular IMC </a>
+    </li>
+    
     </ul>
 
-
-     <?php 
-       echo "<h2>Informações do Servidor</h2>";
-       echo $_SERVER['SCRIPT_NAME'];
-       echo $_SERVER['SERVER_NAME'];
-       echo "<br>";
-    ?>
+        <?php 
+            echo "<h2>Informações do Servidor</h2>";
+            echo $_SERVER['SCRIPT_NAME'];
+            echo $_SERVER['SERVER_NAME'];
+            echo "<br>";
+         ?>
 
 
 </body>

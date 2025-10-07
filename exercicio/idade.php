@@ -7,7 +7,7 @@
 </head>
 <body>
     
-    <h1>Calcular idade e verificar maioridade</h1>
+    <h1> EX 3; Calcular idade e verificar maioridade</h1>
     <form action="idade.php" method="get">
         Nome: <input type="text" name="nome" required>
         <br> <br>

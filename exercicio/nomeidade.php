@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h2> Crie uma aplicação simples em PHP que crie uma variável com seu nome e outra variável com sua idade e mostre na tela. </h2>
+    <h2> EX 1; Crie uma aplicação simples em PHP que crie uma variável com seu nome e outra variável com sua idade e mostre na tela. </h2>
     <br>
 
     <?php
